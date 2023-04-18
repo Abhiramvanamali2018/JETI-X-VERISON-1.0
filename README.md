@@ -22,6 +22,3 @@ deployed on [vercel](https://webx-version-1-0.vercel.app/)
 * [B Sathwik](https://github.com/SATHWIK-1863)
                   
 * [V abhiram](https://github.com/Abhiramvanamali2018)
-
-
-<center>vastunna</center>
