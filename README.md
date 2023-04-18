@@ -2,7 +2,7 @@
 
 ### [Featured on vscode]
 
-WEB-X is a modern and sleek website template crafted for professionals in the creative industry. WEB-X can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+JETIX is a modern and sleek website template crafted for professionals in the creative industry, we can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
@@ -22,3 +22,6 @@ deployed on [vercel](https://webx-version-1-0.vercel.app/)
 * [B Sathwik](https://github.com/SATHWIK-1863)
                   
 * [V abhiram](https://github.com/Abhiramvanamali2018)
+
+
+<center>vastunna</center>
