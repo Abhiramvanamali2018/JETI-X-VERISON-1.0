@@ -1,4 +1,4 @@
-# [WEB-X: HTML5]
+# [JETIX: HTML5]
 
 ### [Featured on vscode]
 
